@@ -1,3 +1,4 @@
+<pre style="float:left; font-size=" font-family:="monospace">          
 # Hello World, I'm Carmem.
 
 ## about me
@@ -17,7 +18,7 @@
                                             
 
 
-<pre style="float:left; font-size=" font-family:="monospace">                                            
+                                  
   ____ _____ _______  _____   ____   _____  
 _/ ___\\__  \\_  __ \/     \_/ __ \ /     \ 
 \  \___ / __ \|  | \/  Y Y  \  ___/|  Y Y  \
